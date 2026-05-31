@@ -48,7 +48,7 @@ git clone https://github.com/MichelleFore34/sales-analytics-portfolio.git
 cd sales-analytics-portfolio
 ```
 
-2. Download the dataset from Kaggle and save it to `data/SaaS_Sales.csv`
+2. Download the dataset from Kaggle and save it to `data/SaaS-Sales.csv`
 
 3. Set up your environment:
 ```bash
@@ -67,7 +67,7 @@ jupyter notebook
 ## Data
 
 Download the [AWS SaaS Sales Dataset](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales) 
-from Kaggle and save the file as `data/SaaS_Sales.csv` in the project root.
+from Kaggle and save the file as `data/SaaS-Sales.csv` in the project root.
 
 The data folder is excluded from this repo — the dataset is publicly available on Kaggle.
 
